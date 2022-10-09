@@ -4,3 +4,5 @@
 This is for practice.
 
 <img src="savecsv.jpg" alt="CSVファイルの保存方法" width="480px">
+
+* feature B
